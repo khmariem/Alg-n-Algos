@@ -1,2 +1,2 @@
-# Alg-n-Algos
+# Algún Algos
 My package for common algorithms in Python: search, graphs, sorting, dynamic programming,....

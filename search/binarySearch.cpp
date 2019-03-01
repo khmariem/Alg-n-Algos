@@ -21,7 +21,7 @@ int binarySearch(vector<int> arr, int number){
             
         }else{
             
-            end = (end+begin)/2;
+            end = (end+begin)/2-1;
             
         }
         
